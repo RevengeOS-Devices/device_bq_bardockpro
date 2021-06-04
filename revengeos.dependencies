@@ -3,7 +3,7 @@
         "remote":       "devices",
         "repository":   "device_bq_msm8953-common",
         "target_path":  "device/bq/msm8953-common"
-    }
+    },
     {
         "remote":       "devices",
         "repository":   "kernel_bq_msm8953",
